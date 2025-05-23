@@ -1,2 +1,2 @@
-# powerbi-portfolio
+# Powerbi-portfolio
 My Power BI Dashboard analyzing supply chain data from Kaggle
